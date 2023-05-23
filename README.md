@@ -1,0 +1,1 @@
+This repository contains functions for training spiking and rate based networks using the FORCE paradigm. Additionally, it contains funcitons for investigating how the lyapunov exponents shape network dynamics.
